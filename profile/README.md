@@ -1,8 +1,4 @@
-<div align="center">
-
-<img src="https://basenai.org/icon1.png" alt="BasenAI Logo" width="110" />
-
-# BasenAI
+<div align="start">
 
 ### Building software for the AI era.
 
